@@ -13,12 +13,12 @@ updated: 2025-10-25 - 19:26
 
 ## Summary
 
-The article proposes moving beyond the traditional `dependencies` / `devDependencies` split in `npm` by using `pnpm` catalogs to group packages into more meaningful categories (e.g., runtime, build‑time, framework, UI, testing). This finer granularity improves version management, makes upgrades clearer, and aids code reviews, especially in monorepos where different parts of a project have distinct needs. The author demonstrates how to define catalogs in `pnpm-workspace.yaml`, add comments for context, and reference them in `package.json`. While catalogs are still evolving and tooling support is limited, the approach offers a flexible way to capture the true purpose of each dependency, reducing noise in the manifest and fostering better collaboration. The article encourages developers to experiment with this method and contribute to its tooling ecosystem.
+The article proposes moving beyond the traditional `dependencies` / `devDependencies` split in `npm` by using `pnpm` catalogs to group packages into more meaningful categories (e.g., runtime, build‑time, framework, UI, testing). This finer granularity improves version management, makes upgrades clearer, and aids code reviews, in monorepos where different parts of a project have distinct needs. The author demonstrates how to define catalogs in `pnpm-workspace.yaml`, add comments for context, and reference them in `package.json`. While catalogs are still evolving and tooling support is at the moment limited, the approach offers a flexible way to capture the true purpose of each dependency, reducing noise in the manifest and fostering better collaboration. The article encourages developers to experiment with this method and contribute to its tooling ecosystem.
 
 ## Key Points
 
 - **Beyond `dependencies` vs `devDependencies`** 
-	- Traditional npm fields can’t express the many roles a package plays (runtime, build‑time, UI, testing, etc.).
+	- Traditional `npm` fields can’t express the multitude of roles a package plays (runtime, build‑time, UI, testing, etc.).
 - **pnpm catalogs** 
 	- Introduce named catalogs in `pnpm-workspace.yaml` (e.g., `catalog:runtime`, `catalog:test`) and reference them in `package.json` via `catalog:<name>`.
 - **Improved version visibility** 
@@ -28,7 +28,7 @@ The article proposes moving beyond the traditional `dependencies` / `devDepe
 - **Team communication** 
 	- Comments can be added to `pnpm-workspace.yaml` to explain why a package lives in a particular catalog, fostering shared context.
 - **Monorepo friendliness** 
-	- Catalogs let different workspaces within a monorepo declare only the subsets they need, avoiding accidental coupling.
+	- Catalogs let different workspaces within a monorepo declare the subsets they need, avoiding accidental coupling.
 - **Tooling gaps** 
 	- Current IDEs and lock‑file viewers don’t fully understand catalogs yet, so you may lose quick version glances in `package.json`. Expect ecosystem support to evolve.
 - **Adoption strategy** 
