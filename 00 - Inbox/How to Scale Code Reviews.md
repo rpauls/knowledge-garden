@@ -1,0 +1,1 @@
+https://newsletter.systemdesign.one/p/how-to-do-code-review

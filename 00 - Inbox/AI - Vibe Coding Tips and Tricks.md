@@ -1,0 +1,1 @@
+https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md

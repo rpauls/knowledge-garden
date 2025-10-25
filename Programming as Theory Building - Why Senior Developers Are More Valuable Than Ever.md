@@ -1,1 +1,0 @@
-https://cekrem.github.io/posts/programming-as-theory-building-naur/

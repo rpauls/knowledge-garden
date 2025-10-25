@@ -1,0 +1,1 @@
+https://martinfowler.com/articles/team-okr.html

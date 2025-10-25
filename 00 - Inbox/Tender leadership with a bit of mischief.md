@@ -1,0 +1,1 @@
+https://uxdesign.cc/tender-leadership-with-a-bit-of-mischief-ad3c90f0bad4

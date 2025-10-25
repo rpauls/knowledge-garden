@@ -1,0 +1,1 @@
+https://obsidian.md/blog/less-is-safer/

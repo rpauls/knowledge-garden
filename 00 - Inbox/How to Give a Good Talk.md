@@ -1,0 +1,1 @@
+https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/
