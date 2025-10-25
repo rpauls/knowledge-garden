@@ -56,7 +56,8 @@ Welcome to my **Knowledge Garden** - a personal, growing repository of ideas, no
 | **Community-– Excalidraw**    | Sketch diagrams, architecture sketches, mind maps. |
 | **Community - Tag Wrangler**  | Manage tag hierarchy and bulk rename.              |
 | **Community - Minimal Theme** | Configuration for used "Minimal Theme"             |
-|                               |                                                    |
+| **Community - Linter**        | Enforces markdown structure                        |
+| **Community - Write Good**    | Enforces clear and precise writing style           |
 
 ## 🌱 Growing the Garden
 
