@@ -8,7 +8,7 @@ tags:
 created: 2025-10-25
 updated: 19:23
 ---
-# How NodeJS works behind the scenes
+# How NodeJS works behind the Scenes
 
 ## Summary
 

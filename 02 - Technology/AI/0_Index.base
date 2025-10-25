@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "02 - Technology/AI"
+        - file.name != "0_Index.base"

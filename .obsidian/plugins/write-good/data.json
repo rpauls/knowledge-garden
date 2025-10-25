@@ -69,7 +69,11 @@
     "01 - software engineering/leadership & management/you know what to do.md": true,
     "01 - software engineering/leadership & management/why it's easier to manage 4 people than its to manage 1 person.md": true,
     "01 - software engineering/architecture/big o.md": true,
-    "01 - software engineering/architecture/working on complex systems.md": true
+    "01 - software engineering/architecture/working on complex systems.md": true,
+    "01 - software engineering/architecture/0_index.base": true,
+    "01 - software engineering/0_index.base": true,
+    "01 - software engineering/leadership & management/0_index.base": true,
+    "02 - technology/ai/0_index.base": true
   },
   "enableChecksByDefault": true
 }
