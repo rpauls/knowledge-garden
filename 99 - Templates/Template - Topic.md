@@ -4,7 +4,6 @@ tags:
 created: "{{date}} - {{time}}"
 updated: "{{date}} - {{time}}"
 ---
-
 # {{title}}
 
 ## Summary
