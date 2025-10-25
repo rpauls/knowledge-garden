@@ -1,5 +1,7 @@
 [
   "obsidian-minimal-settings",
   "obsidian-linter",
-  "write-good"
+  "write-good",
+  "obsidian-excalidraw-plugin",
+  "tag-wrangler"
 ]
