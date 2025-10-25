@@ -12,7 +12,6 @@
   },
   "fileChecksState": {
     "00 - inbox/migrating a javascript project from prettier and eslint to biomejs.md": true,
-    "00 - inbox/working on complex systems.md": true,
     "00 - inbox/experts have it easy.md": true,
     "00 - inbox/rolldown - getting started.md": true,
     "00 - inbox/vitest - rolldown integration.md": true,
@@ -52,7 +51,6 @@
     "00 - inbox/team okrs in action.md": true,
     "00 - inbox/ai - vibe coding tips and tricks.md": true,
     "00 - inbox/an illustrated guide to oauth.md": true,
-    "00 - inbox/big o.md": true,
     "00 - inbox/we studied 100 dev tool landing pages.md": true,
     "00 - inbox/ai-assisted development - a three-act play.md": true,
     "00 - inbox/cloning a single file in git.md": true,
@@ -69,7 +67,9 @@
     "00 - inbox/how to write a good design document.md": true,
     "01 - software engineering/leadership & management/your manager is not your best friend.md": true,
     "01 - software engineering/leadership & management/you know what to do.md": true,
-    "01 - software engineering/leadership & management/why it's easier to manage 4 people than its to manage 1 person.md": true
+    "01 - software engineering/leadership & management/why it's easier to manage 4 people than its to manage 1 person.md": true,
+    "01 - software engineering/architecture/big o.md": true,
+    "01 - software engineering/architecture/working on complex systems.md": true
   },
   "enableChecksByDefault": true
 }
