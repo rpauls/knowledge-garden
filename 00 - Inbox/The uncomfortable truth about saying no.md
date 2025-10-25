@@ -1,1 +1,0 @@
-https://jennywanger.com/articles/saying-no/

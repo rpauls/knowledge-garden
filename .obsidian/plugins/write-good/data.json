@@ -25,9 +25,7 @@
     "00 - inbox/leading from the front.md": true,
     "00 - inbox/no pain, no gain.md": true,
     "00 - inbox/readme.md": true,
-    "00 - inbox/the precise language of good management.md": true,
     "00 - inbox/tips for better interactions.md": true,
-    "00 - inbox/this is how you're eroding accountability.md": true,
     "00 - inbox/webgamedev.md": true,
     "00 - inbox/how to vibe code as a senior engineer.md": true,
     "00 - inbox/improving prettier performance with the new cli.md": true,
@@ -58,7 +56,6 @@
     "00 - inbox/nuxt ui v4 • official design kit.md": true,
     "00 - inbox/how to give a good talk.md": true,
     "00 - inbox/tender leadership with a bit of mischief.md": true,
-    "00 - inbox/the uncomfortable truth about saying no.md": true,
     "00 - inbox/bringing discovery to engineers who just want to build.md": true,
     "00 - inbox/google - comprehensive rust course.md": true,
     "00 - inbox/less is safer - how obsidian reduces the risk of supply chain attacks.md": true,
@@ -73,7 +70,10 @@
     "01 - software engineering/architecture/0_index.base": true,
     "01 - software engineering/0_index.base": true,
     "01 - software engineering/leadership & management/0_index.base": true,
-    "02 - technology/ai/0_index.base": true
+    "02 - technology/ai/0_index.base": true,
+    "01 - software engineering/leadership & management/this is how you're eroding accountability.md": true,
+    "01 - software engineering/product management": true,
+    "01 - software engineering/leadership & management/the precise language of good management.md": true
   },
   "enableChecksByDefault": true
 }
