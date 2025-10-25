@@ -1,0 +1,1 @@
+https://blog.alexmaccaw.com/how-to-vibe-code-as-a-senior-engineer/

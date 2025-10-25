@@ -1,5 +1,5 @@
 ---
-type:
+type: Essay
 tags:
   - engineering
   - leadership

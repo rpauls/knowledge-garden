@@ -1,0 +1,1 @@
+https://jyn.dev/an-engineers-perspective-on-hiring

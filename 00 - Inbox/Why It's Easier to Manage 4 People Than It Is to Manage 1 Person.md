@@ -1,0 +1,1 @@
+https://staysaasy.com/management/2020/07/24/Managing-One-Person.html

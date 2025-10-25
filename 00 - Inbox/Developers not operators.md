@@ -1,0 +1,1 @@
+https://victorwynne.com/developers-not-operators/

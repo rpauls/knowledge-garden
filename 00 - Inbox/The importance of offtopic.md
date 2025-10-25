@@ -1,0 +1,1 @@
+https://blog.tadzik.net/the-importance-of-offtopic.html

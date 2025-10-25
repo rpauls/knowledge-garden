@@ -1,0 +1,1 @@
+https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html

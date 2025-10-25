@@ -1,0 +1,1 @@
+https://staysaasy.com/management/2025/05/25/AI-management.html

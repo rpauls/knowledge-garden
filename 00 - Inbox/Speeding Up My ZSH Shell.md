@@ -1,0 +1,1 @@
+https://scottspence.com/posts/speeding-up-my-zsh-shell

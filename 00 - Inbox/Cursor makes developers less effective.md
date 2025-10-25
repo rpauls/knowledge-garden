@@ -1,0 +1,1 @@
+https://blog.pragmaticengineer.com/cursor-makes-developers-less-effective/

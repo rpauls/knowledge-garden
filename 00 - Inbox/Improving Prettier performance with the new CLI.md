@@ -1,0 +1,1 @@
+https://e18e.dev/blog/prettier-speed-up

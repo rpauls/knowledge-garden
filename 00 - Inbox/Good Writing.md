@@ -1,0 +1,1 @@
+https://paulgraham.com/goodwriting.html

@@ -1,0 +1,1 @@
+https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/

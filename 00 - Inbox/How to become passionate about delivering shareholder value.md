@@ -1,0 +1,1 @@
+https://www.seangoedecke.com/shareholder-value/

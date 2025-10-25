@@ -1,0 +1,1 @@
+https://staysaasy.com/product/2021/05/02/competition.html
