@@ -1,1 +1,0 @@
-https://staysaasy.com/management/2025/08/20/you-know-what-to-do.html

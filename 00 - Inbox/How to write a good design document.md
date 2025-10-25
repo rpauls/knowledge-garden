@@ -1,0 +1,1 @@
+https://grantslatton.com/how-to-design-document

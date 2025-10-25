@@ -20,10 +20,7 @@
     "00 - inbox/worldbuilding with obsidian.md.md": true,
     "00 - inbox/why property testing finds bugs unit testing does not.md": true,
     "00 - inbox/good writing.md": true,
-    "00 - inbox/why it's easier to manage 4 people than it is to manage 1 person.md": true,
     "00 - inbox/soft skills for managers.md": true,
-    "00 - inbox/you know what to do.md": true,
-    "00 - inbox/your manager is not your best friend.md": true,
     "00 - inbox/ai makes bad managers.md": true,
     "00 - inbox/competitive analysis for product engineers.md": true,
     "00 - inbox/leading from the front.md": true,
@@ -68,7 +65,11 @@
     "00 - inbox/google - comprehensive rust course.md": true,
     "00 - inbox/less is safer - how obsidian reduces the risk of supply chain attacks.md": true,
     "00 - inbox/rules for creating good-looking user interfaces from a developer.md": true,
-    "00 - inbox/ai and product management - becoming more evidence-guided.md": true
+    "00 - inbox/ai and product management - becoming more evidence-guided.md": true,
+    "00 - inbox/how to write a good design document.md": true,
+    "01 - software engineering/leadership & management/your manager is not your best friend.md": true,
+    "01 - software engineering/leadership & management/you know what to do.md": true,
+    "01 - software engineering/leadership & management/why it's easier to manage 4 people than its to manage 1 person.md": true
   },
   "enableChecksByDefault": true
 }

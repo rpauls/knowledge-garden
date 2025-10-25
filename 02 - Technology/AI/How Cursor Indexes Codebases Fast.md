@@ -1,5 +1,5 @@
 ---
-type:
+type: Article
 tags:
   - ai
   - cursor
@@ -41,6 +41,6 @@ The Engineers Codex article explains how `Cursor` makes code‑base indexing f
 
 ...
 
-## Related Content
+## References
 
 - https://read.engineerscodex.com/p/how-cursor-indexes-codebases-fast

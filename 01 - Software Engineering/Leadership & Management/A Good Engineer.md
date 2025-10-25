@@ -53,6 +53,6 @@ The article argues that calling ourselves “software engineers” while holding
 
 ...
 
-## Related Content
+## References
 
 - https://antfu.me/posts/categorize-deps

@@ -43,7 +43,7 @@ The article walks through Node.js’s inner mechanics, focusing on the event‑l
 
 ...
 
-## Related Content
+## References
 
 - https://www.deepintodev.com/blog/how-nodejs-works-behind-the-scenes
 

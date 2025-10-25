@@ -48,8 +48,7 @@ The article proposes moving beyond the traditional `dependencies` / `devDepe
 
 ...
 
-## Related Content
-
+## References
 
 - https://antfu.me/posts/categorize-deps
 
