@@ -28,7 +28,6 @@
     "00 - inbox/webgamedev.md": true,
     "00 - inbox/how to vibe code as a senior engineer.md": true,
     "00 - inbox/improving prettier performance with the new cli.md": true,
-    "00 - inbox/the ingredients of a productive monorepo.md": true,
     "00 - inbox/opentelemetry for go - measuring the overhead.md": true,
     "00 - inbox/graph theory applications in video games.md": true,
     "00 - inbox/it’s time for modern css to kill the spa.md": true,
@@ -60,7 +59,10 @@
     "00 - inbox/less is safer - how obsidian reduces the risk of supply chain attacks.md": true,
     "00 - inbox/rules for creating good-looking user interfaces from a developer.md": true,
     "00 - inbox/ai and product management - becoming more evidence-guided.md": true,
-    "readme.md": true
+    "readme.md": true,
+    "00 - inbox/feynman technique.md": true,
+    "97 - notes/prompts/article summaries.md": true,
+    "01 - software engineering/architecture/the ingredients of a productive monorepo.md": true
   },
   "enableChecksByDefault": true
 }

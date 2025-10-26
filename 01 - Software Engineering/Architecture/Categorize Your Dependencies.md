@@ -36,10 +36,6 @@ The article proposes moving beyond the traditional `dependencies` / `devDepe
 - **Future‑proofing** 
 	- As projects grow, catalogs provide a scalable way to add new dimensions (e.g., security‑related libs, experimental features) without proliferating custom fields.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

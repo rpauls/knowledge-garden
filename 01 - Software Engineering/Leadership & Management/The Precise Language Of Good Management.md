@@ -25,8 +25,6 @@ The article argues that a manager’s words are a binding promise: the exact phr
 - **Benefits of precision:** 
 	- Clear expectations reduce misunderstandings, increase trust, and enable faster decision‑making; teams know precise what to work on and can track progress objectively.
 
-## Subtopics
-
 ### Practical tips:
 
 - **Ask for data before answering** – base statements on evidence.

@@ -26,10 +26,6 @@ The article outlines common ways leaders unintentionally undermine accountabilit
 - **Unclear Expectations** 
 	- Vague goals lead to excuse‑making; restating clear, outcome‑focused expectations realigns the team and strengthens accountability culture
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

@@ -25,10 +25,6 @@ The article explains why managing a single direct report is often harder than ov
 - **Boundary Importance** 
 	- Establishing clear expectations, regular check‑ins, and encouraging external feedback (e.g., mentors or peers) mitigates the pitfalls of a one‑person reporting line.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

@@ -24,10 +24,6 @@ The article argues that a manager’s role should remain professional rather tha
 - **Trust Building** 
 	- Clear, fact‑focused communication builds trust and reduces factionalism, leading to stronger collaboration.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

@@ -29,10 +29,6 @@ The Engineers Codex article explains how `Cursor` makes code‑base indexing f
 - **Scalable to massive repos**
 	- Because the cost grows with the number of changed chunks rather than total file count, Cursor remains responsive even for monorepos containing thousands of files.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

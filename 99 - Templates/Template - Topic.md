@@ -14,13 +14,9 @@ The summary of the topics, article, blog, thread, etc.
 
 The key points of {{title}}. If wanted also insert formulas $in\ latex$ etc.
 
-## Subtopics
-
-Details, Toughs, Pro/Contra, etc.
-
 ## Personal Thoughts
 
-What do you think about this topic?
+What do you think about this topic? Details, Toughs, Pro/Contra, etc.
 
 ## Examples
 

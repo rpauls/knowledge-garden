@@ -24,10 +24,6 @@ The article introduces Big O notation as a way to describe how a function’s 
 - **Real‑World Testing Needed** 
 	- Complexity analysis doesn’t replace empirical benchmarking; actual performance depends on factors like hardware, language, and hidden constants.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

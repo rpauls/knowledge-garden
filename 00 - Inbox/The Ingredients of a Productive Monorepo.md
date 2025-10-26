@@ -1,1 +1,0 @@
-https://blog.swgillespie.me/posts/monorepo-ingredients/

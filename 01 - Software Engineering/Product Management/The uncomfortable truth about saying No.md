@@ -29,14 +29,6 @@ Saying "no" is essential for product managers who want to move from merely handl
 - **Saying no is non‑negotiable:** 
 	- Without the discipline to reject distractions, a product team ends up with a wish list rather than a coherent strategy.
 
-## Key Points
-
-
-
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

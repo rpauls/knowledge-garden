@@ -31,10 +31,6 @@ The article walks through Node.js’s inner mechanics, focusing on the event‑l
 - **Single‑thread illusion** 
 	- Although JavaScript runs on one thread, the combination of `libuv`'s thread pool and the OS kernel provides true concurrency for I/O, explaining Node’s scalability.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

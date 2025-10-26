@@ -25,10 +25,6 @@ The article breaks down what makes a system “complex” versus merely “compl
 - **Pattern Toolkit** 
 	- Practical patterns include safe‑to‑fail environments, incremental rollouts, and feedback loops that enable rapid learning and course correction.
 
-## Subtopics
-
-
-
 ## Personal Thoughts
 
 

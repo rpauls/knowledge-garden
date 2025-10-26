@@ -26,10 +26,6 @@ The article observes that experienced individuals who are close to a problem in 
 - **Act Quick** 
 	- When the correct action is evident, execute it prompt instead of stalling for more data or approval.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...

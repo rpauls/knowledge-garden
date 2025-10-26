@@ -41,10 +41,6 @@ The article argues that calling ourselves “software engineers” while holding
     3. **Build tooling for iteration**: Adopt CI pipelines, automated testing, and observability stacks that enable rapid, safe experimentation.
     4. **Foster a learning culture**: Use regular “tech‑talk” slots where engineers share failures and lessons learned, reinforcing the engineering mindset.
 
-## Subtopics
-
-...
-
 ## Personal Thoughts
 
 ...
