@@ -1,0 +1,1 @@
+https://newsletter.manager.dev/p/the-13-software-engineering-laws

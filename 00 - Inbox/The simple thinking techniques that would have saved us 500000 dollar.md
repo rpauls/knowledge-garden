@@ -1,0 +1,1 @@
+https://www.blog4ems.com/p/the-simple-thinking-techniques

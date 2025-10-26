@@ -107,7 +107,24 @@
     "00 - inbox/the problem with the perfect roadmap.md": true,
     "00 - inbox/promotions are based on impact, not just people skills.md": true,
     "00 - inbox/hero images are dead - these solutions are replacing them.md": true,
-    "00 - inbox/tbm 379 - vertical vs horizontal org coupling.md": true
+    "00 - inbox/tbm 379 - vertical vs horizontal org coupling.md": true,
+    "00 - inbox/why sharing a redis cluster across services is asking for trouble.md": true,
+    "00 - inbox/organising your gitlab ci cd pipeline - from monolithic to modular.md": true,
+    "00 - inbox/optimizing gitlab ci cd pipeline execution and resource usage.md": true,
+    "00 - inbox/resource management in gitlab pipelines - a comprehensive guide.md": true,
+    "00 - inbox/engineers who wont commit.md": true,
+    "00 - inbox/optimizing our e2e pipeline.md": true,
+    "00 - inbox/how to easily reproduce a flaky test in playwright.md": true,
+    "00 - inbox/how software engineers can prepare for leadership roles.md": true,
+    "00 - inbox/the reality of working in tech - we are not hired to write code.md": true,
+    "00 - inbox/minimal css-only blurry image placeholders.md": true,
+    "00 - inbox/the simple thinking techniques that would have saved us 500000 dollar.md": true,
+    "00 - inbox/the 13 software engineering laws.md": true,
+    "00 - inbox/how to write blog posts that developers read.md": true,
+    "00 - inbox/how the fck do you do estimates.md": true,
+    "00 - inbox/typescript migrates to go - what's really behind that 10x performance claim.md": true,
+    "00 - inbox/the software engineering identity crisis.md": true,
+    "00 - inbox/obsidian rocks.md": true
   },
   "enableChecksByDefault": true
 }

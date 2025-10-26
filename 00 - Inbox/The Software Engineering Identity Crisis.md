@@ -1,0 +1,1 @@
+https://annievella.com/posts/the-software-engineering-identity-crisis/

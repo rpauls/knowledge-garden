@@ -1,0 +1,1 @@
+https://www.reddit.com/r/ExperiencedDevs/comments/1jiznoo/how_the_fck_do_you_do_estimates/

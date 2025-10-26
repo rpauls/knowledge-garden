@@ -1,0 +1,1 @@
+https://the-pi-guy.com/blog/optimizing_gitlab_cicd_pipeline_execution_and_resource_usage/

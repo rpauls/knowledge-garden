@@ -1,0 +1,1 @@
+https://www.seangoedecke.com/taking-a-position/

@@ -1,0 +1,1 @@
+https://medium.com/juliusbaerengineering/resource-management-in-gitlab-pipelines-a-comprehensive-guide-150a3c4f98f9

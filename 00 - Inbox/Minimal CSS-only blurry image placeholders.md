@@ -1,0 +1,1 @@
+https://leanrada.com/notes/css-only-lqip/

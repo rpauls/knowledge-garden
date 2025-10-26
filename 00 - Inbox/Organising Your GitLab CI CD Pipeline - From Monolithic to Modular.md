@@ -1,0 +1,1 @@
+https://medium.com/@david_haylock/organising-your-gitlab-ci-cd-pipeline-from-monolithic-to-modular-2847e0b43320

@@ -1,0 +1,1 @@
+https://www.architecture-weekly.com/p/typescript-migrates-to-go-whats-really

@@ -1,0 +1,1 @@
+https://strategizeyourcareer.com/p/how-software-engineers-can-prepare-for-leadership-roles
