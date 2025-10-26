@@ -1,3 +1,2 @@
-
 Create a summary and distinct "Key Points" of the following article, avoid redundant and duplicate content between the summary and key points. Use simple, precise and easy to understand language, avoid jargon and buzzwords.
 Format the key points in a unnumbered list. For a list entry, use a bold entry title. Don't use dashes or similar as delimiter, use ":" instead and end the bold formatting, followed by the extended text content and/or sub list entries.

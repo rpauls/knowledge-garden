@@ -24,7 +24,6 @@
     "00 - inbox/competitive analysis for product engineers.md": true,
     "00 - inbox/leading from the front.md": true,
     "00 - inbox/no pain, no gain.md": true,
-    "00 - inbox/readme.md": true,
     "00 - inbox/tips for better interactions.md": true,
     "00 - inbox/webgamedev.md": true,
     "00 - inbox/how to vibe code as a senior engineer.md": true,
@@ -61,19 +60,7 @@
     "00 - inbox/less is safer - how obsidian reduces the risk of supply chain attacks.md": true,
     "00 - inbox/rules for creating good-looking user interfaces from a developer.md": true,
     "00 - inbox/ai and product management - becoming more evidence-guided.md": true,
-    "00 - inbox/how to write a good design document.md": true,
-    "01 - software engineering/leadership & management/your manager is not your best friend.md": true,
-    "01 - software engineering/leadership & management/you know what to do.md": true,
-    "01 - software engineering/leadership & management/why it's easier to manage 4 people than its to manage 1 person.md": true,
-    "01 - software engineering/architecture/big o.md": true,
-    "01 - software engineering/architecture/working on complex systems.md": true,
-    "01 - software engineering/architecture/0_index.base": true,
-    "01 - software engineering/0_index.base": true,
-    "01 - software engineering/leadership & management/0_index.base": true,
-    "02 - technology/ai/0_index.base": true,
-    "01 - software engineering/leadership & management/this is how you're eroding accountability.md": true,
-    "01 - software engineering/product management": true,
-    "01 - software engineering/leadership & management/the precise language of good management.md": true
+    "readme.md": true
   },
   "enableChecksByDefault": true
 }
