@@ -1,0 +1,1 @@
+https://cutlefish.substack.com/p/tbm-379-vertical-vs-horizontal-org

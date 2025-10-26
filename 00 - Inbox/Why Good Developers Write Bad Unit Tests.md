@@ -1,0 +1,1 @@
+https://mtlynch.io/good-developers-bad-tests/

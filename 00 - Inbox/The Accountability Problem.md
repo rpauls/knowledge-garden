@@ -1,0 +1,1 @@
+https://www.jamesshore.com/v2/blog/2025/the-accountability-problem

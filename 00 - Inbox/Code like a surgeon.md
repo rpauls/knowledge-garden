@@ -1,0 +1,1 @@
+https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon

@@ -1,0 +1,1 @@
+https://uxplanet.org/hero-images-are-dead-these-solutions-are-replacing-them-184aae824c55

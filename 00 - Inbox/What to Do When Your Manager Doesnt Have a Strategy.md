@@ -1,0 +1,1 @@
+https://jennywanger.com/articles/what-to-do-when-your-manager-doesnt-have-a-strategy/

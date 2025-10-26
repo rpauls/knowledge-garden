@@ -1,0 +1,1 @@
+https://itamargilad.com/impact/

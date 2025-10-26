@@ -1,0 +1,1 @@
+https://www.notesfromthecircus.com/p/the-coming-clash-of-civilizations

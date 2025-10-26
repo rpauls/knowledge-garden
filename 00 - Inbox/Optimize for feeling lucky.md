@@ -1,0 +1,1 @@
+https://amivora.substack.com/p/optimize-for-feeling-lucky

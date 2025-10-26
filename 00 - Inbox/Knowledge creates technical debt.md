@@ -1,0 +1,1 @@
+https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/

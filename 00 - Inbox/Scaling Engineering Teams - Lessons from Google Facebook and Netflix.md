@@ -1,0 +1,1 @@
+https://greenido.wordpress.com/2025/09/25/scaling-engineering-teams-lessons-from-google-facebook-and-netflix/

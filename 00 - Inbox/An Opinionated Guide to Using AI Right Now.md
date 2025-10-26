@@ -1,0 +1,1 @@
+https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai

@@ -1,0 +1,1 @@
+https://techtrenches.substack.com/p/the-great-software-quality-collapse

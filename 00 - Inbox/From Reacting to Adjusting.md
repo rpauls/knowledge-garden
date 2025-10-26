@@ -1,0 +1,1 @@
+https://amycmitchell.substack.com/p/handling-urgency-in-product-management

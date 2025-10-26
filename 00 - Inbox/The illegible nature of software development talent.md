@@ -1,0 +1,1 @@
+https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/

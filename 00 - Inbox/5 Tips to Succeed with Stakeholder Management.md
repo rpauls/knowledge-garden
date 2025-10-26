@@ -1,0 +1,1 @@
+https://www.romanpichler.com/blog/stakeholder-management-tips/

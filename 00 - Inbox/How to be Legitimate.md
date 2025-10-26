@@ -1,0 +1,1 @@
+https://a16z.substack.com/p/how-to-be-legitimate

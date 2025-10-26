@@ -1,0 +1,1 @@
+https://news.yuezhao.coach/p/companies-invest-in-impact-not-people
