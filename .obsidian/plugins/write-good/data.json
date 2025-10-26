@@ -62,7 +62,11 @@
     "readme.md": true,
     "00 - inbox/feynman technique.md": true,
     "97 - notes/prompts/article summaries.md": true,
-    "01 - software engineering/architecture/the ingredients of a productive monorepo.md": true
+    "01 - software engineering/architecture/the ingredients of a productive monorepo.md": true,
+    "00 - inbox/concise explanations accelerate progress.md": true,
+    "00 - inbox/40 questions to ask yourself every year.md": true,
+    "00 - inbox/40 questions to ask yourself every decade.md": true,
+    "00 - inbox/welcome to quartz 4 - ssg for obsidian.md": true
   },
   "enableChecksByDefault": true
 }
