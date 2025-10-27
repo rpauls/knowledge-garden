@@ -1,15 +1,12 @@
 # 📚 Robert K. Pauls - Knowledge Garden
 
-Welcome to my **Knowledge Garden** - a personal, growing repository of ideas, notes, and discoveries. This vault is organized around three main pillars:
-
-1. **Software Engineering** – design patterns, architecture, dev‑ops, tooling, code snippets, and best practices.
-2. **Technology & Trends** – emerging tech, product deep‑dives, tutorials, and industry news.
-3. **Science & Curious Finds** – bite‑size explanations of scientific concepts, experiments, and anything that sparks curiosity.
+Welcome to my **Knowledge Garden** - a personal, growing repository of ideas, notes, and discoveries. 
 
 **Disclaimer:** All personal views, interpretations, and opinions expressed in the notes within this vault are solely my own and do not represent any organization, employer, or third‑party entity.
+
 ## 🎯 Purpose
 
-- **Capturing** insights quickly (notes, article highlights, code experiments).
+- **Capturing** insights (notes, article highlights, code experiments).
 - **Organizing** them for easy retrieval and cross‑linking.
 - **Evolving** the garden over time—add, refactor, and prune as my interests shifts.
 
