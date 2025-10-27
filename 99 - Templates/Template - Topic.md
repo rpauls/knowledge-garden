@@ -1,27 +1,34 @@
 ---
-type:
+type: Topic
 tags:
+  - topic
 created: "{{date}} - {{time}}"
 updated: "{{date}} - {{time}}"
 ---
 # {{title}}
 
-## Summary
+*(This note should explore a single, specific concept)* 
+## Core Idea 
 
-The summary of the topics, article, blog, thread, etc.
+A clear, concise definition of the topic in my own words. What is this concept at its heart? 
+## Key Insights 
 
-## Key Points
+- What are the most important principles or aspects of this topic? 
+- This is where I synthesize ideas from one or more sources. 
+- This should be written to my future self, assuming I've forgotten the details.  
 
-The key points of {{title}}. If wanted also insert formulas $in\ latex$ etc.
+## Open Questions 
 
-## Personal Thoughts
+- What do I still not understand? 
+- What needs further research? 
 
-What do you think about this topic? Details, Toughs, Pro/Contra, etc.
+## Related Topics 
 
-## Examples
-
-Link to examples or other pages, where {{title}} is implemented.
-
+- `[[Link to a broader concept]]` 
+- `[[Link to a sub-concept]]` 
+- `[[Link to a contrasting concept]]` 
+ 
 ## References
 
-Papers, Websites, Internal References
+- `[[Source Note 1]]` 
+- `[[Source Note 2]]`

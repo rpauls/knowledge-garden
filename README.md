@@ -18,13 +18,18 @@ Welcome to my **Knowledge Garden** - a personal, growing repository of ideas, no
 ```text
 📦 Knowledge-Garden/
  ┣ 📁 00 – Inbox/          # Quick capture, later to be sorted
- ┣ 📁 01 – Software Engineering/
- ┃   ┣ 📁 .../
- ┣ 📁 02 – Technology/
- ┃   ┣ 📁 .../
- ┣ 📁 03 – Science/
- ┃   ┣ 📁 .../
- ┣ 📁 98 – References/     # PDFs, books, articles (linked via attachments)
+ ┣ 📁 10 – Topics/
+ ┃	 ┣ 📁 01 – High-Level Topic/
+ ┃   ┃   ┣ 📁 Low Level Topic/
+ ┃	 ┣ 📁 02 – .../
+ ┃   ┃   ┣ 📁 .../
+ ┣ 📁 20 – References/     
+ ┃	 ┣ 📁 01 – High-Level Topic/
+ ┃   ┃   ┣ 📁 Low Level Topic/
+ ┃	 ┣ 📁 02 – .../
+ ┃   ┃   ┣ 📁 .../
+ ┣ 📁 97 – Notes/          # Unsorted notes, prompts, etc.
+ ┣ 📁 98 – References/     # PDFs, graphics, etc.
  ┣ 📁 99 – Templates/      # Note templates
  ┗ 📄 README.md            # <‑ You’re here!
 ```
