@@ -1,4 +1,4 @@
-# 📚 RPauls Knowledge Garden
+# 📚 Robert K. Pauls - Knowledge Garden
 
 Welcome to my **Knowledge Garden** - a personal, growing repository of ideas, notes, and discoveries. This vault is organized around three main pillars:
 
