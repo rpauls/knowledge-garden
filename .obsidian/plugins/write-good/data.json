@@ -124,8 +124,6 @@
     "00 - inbox/the software engineering identity crisis.md": true,
     "00 - inbox/obsidian rocks.md": true,
     "99 - templates": true,
-    "99 - templates/template - topic.md": true,
-    "99 - templates/template - source.md": true,
     "10 - topics": true,
     "20 - references": true,
     "98 - assets": true,
@@ -161,7 +159,11 @@
     "20 - references/02 - technology/cloud": true,
     "20 - references/02 - technology/ai": true,
     "20 - references/02 - technology/security": true,
-    "20 - references/02 - technology/ai/how cursor indexes codebases fast.md": true
+    "20 - references/02 - technology/ai/how cursor indexes codebases fast.md": true,
+    "30 - books": true,
+    "99 - templates/(template) book.md": true,
+    "99 - templates/(template) source.md": true,
+    "99 - templates/(template) topic.md": true
   },
   "enableChecksByDefault": true
 }
