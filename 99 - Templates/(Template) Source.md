@@ -2,9 +2,10 @@
 type: Source
 title: ""
 author: ""
-url: ""
+source: ""
 tags:
   - source
+published: "{{published}}"
 created: "{{date}} - {{time}}"
 ---
 # {{title}}
